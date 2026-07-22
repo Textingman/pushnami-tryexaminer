@@ -48,7 +48,7 @@ export default function PrivacyPage() {
           <p className="mb-6" style={{ color: '#6B7280' }}>
             If you have questions about this Privacy Policy, please contact us at:<br />
             Examiner<br />
-            8 The Green, Ste A, Dover, DE 19901<br />
+            6106 Cherrylawn Cir, Austin, TX 78723<br />
             Email: <a href="mailto:support@tryexaminer.com" style={{ color: '#1D4ED8' }}>support@tryexaminer.com</a>
           </p>
         </div>
